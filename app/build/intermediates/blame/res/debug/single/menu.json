@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\mizes\\AndroidStudioProjects\\ruichuang\\app\\build\\intermediates\\res\\merged\\debug\\menu\\login.xml",
+        "source": "C:\\Users\\mizes\\AndroidStudioProjects\\ruichuang\\app\\src\\main\\res\\menu\\login.xml"
+    },
+    {
+        "merged": "C:\\Users\\mizes\\AndroidStudioProjects\\ruichuang\\app\\build\\intermediates\\res\\merged\\debug\\menu\\detail.xml",
+        "source": "C:\\Users\\mizes\\AndroidStudioProjects\\ruichuang\\app\\src\\main\\res\\menu\\detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\mizes\\AndroidStudioProjects\\ruichuang\\app\\build\\intermediates\\res\\merged\\debug\\menu\\add.xml",
+        "source": "C:\\Users\\mizes\\AndroidStudioProjects\\ruichuang\\app\\src\\main\\res\\menu\\add.xml"
+    },
+    {
+        "merged": "C:\\Users\\mizes\\AndroidStudioProjects\\ruichuang\\app\\build\\intermediates\\res\\merged\\debug\\menu\\my.xml",
+        "source": "C:\\Users\\mizes\\AndroidStudioProjects\\ruichuang\\app\\src\\main\\res\\menu\\my.xml"
+    },
+    {
+        "merged": "C:\\Users\\mizes\\AndroidStudioProjects\\ruichuang\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\mizes\\AndroidStudioProjects\\ruichuang\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\mizes\\AndroidStudioProjects\\ruichuang\\app\\build\\intermediates\\res\\merged\\debug\\menu\\mymenu.xml",
+        "source": "C:\\Users\\mizes\\AndroidStudioProjects\\ruichuang\\app\\src\\main\\res\\menu\\mymenu.xml"
+    }
+]

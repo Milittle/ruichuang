@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sex">
+        <item>男</item>
+        <item>女</item>
+    </string-array>
+    <color name="b">#FF161414</color>
+    <color name="black_pay">#505050</color>
+    <color name="blank">#FFFFFF</color>
+    <color name="blank_pay">#D8D8D8</color>
+    <color name="pay">#C0C0C0</color>
+    <color name="white">#FFFFFF</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="action_settings">settings</string>
+    <string name="add_dep">请输入主办人</string>
+    <string name="add_details">请输入活动详情</string>
+    <string name="add_location">请输入活动地点</string>
+    <string name="add_submit">添加活动</string>
+    <string name="add_title">请输入活动标题</string>
+    <string name="app_name">睿创</string>
+    <string name="exit">退出</string>
+    <string name="fmale">女</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="male">男</string>
+    <string name="myactivity">我的活动</string>
+    <string name="profession">专    业</string>
+    <string name="professionhint">请输入你的专业名称</string>
+    <string name="rnamehint">电话/邮箱/字母、数字组合</string>
+    <string name="rpasshint">6-16个字母或数字</string>
+    <string name="school">学    校</string>
+    <string name="schoolhint">请输入你的学校名称</string>
+    <string name="sex">性    别</string>
+    <string name="sexhint">请选择你的性别</string>
+    <string name="title_activity_add">AddActivity</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="title_activity_login">注册</string>
+    <string name="title_activity_main">我的</string>
+    <string name="title_activity_my">MyActivity</string>
+    <string name="truename">真实姓名</string>
+    <string name="truenamehint">请输入真实姓名</string>
+    <string name="ucpass">确认密码</string>
+    <string name="ucpasshint">请再次输入密码</string>
+    <string name="ulogin">登录</string>
+    <string name="uname">用户名:</string>
+    <string name="unamehint">请输入用户名</string>
+    <string name="upass">密    码:</string>
+    <string name="upasshint">请输入密码</string>
+    <string name="uregister">注册</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="mygap">
+    	<item name="android:padding">10dp</item>
+    	<item name="android:textColor">@color/blank</item>    
+    </style>
+    <style name="textapp">
+        <item name="android:textSize">15sp</item>
+        <item name="android:background">@color/white</item>
+    </style>
+    <style name="titleBarStyle">
+        <item name="android:windowTitleSize">50dp</item>
+        <item name="android:padding">0dp</item>
+    </style>
+</resources>

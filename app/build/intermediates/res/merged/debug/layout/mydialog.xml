@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    <TextView 
+        android:id="@+id/d_textView"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:gravity="center"
+        android:text="修改数据"
+        android:textSize="20sp"
+        android:visibility="visible"
+        	/>
+    <EditText 
+        android:id="@+id/d_editText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="5dp"
+        android:gravity="left|center"
+        />
+    
+    <LinearLayout 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        
+        <Button 
+	        android:id="@+id/d_ok"
+	        android:layout_width="0dp"
+	        android:layout_weight="0.5"
+	        android:layout_height="wrap_content"
+	        android:text="确定"
+	        />
+        
+        <Button 
+	        android:id="@+id/d_cancel"
+	        android:layout_width="0dp"
+	        android:layout_weight="0.5"
+	        android:layout_height="wrap_content"
+	        android:text="取消"
+	        />
+    </LinearLayout>
+    
+    
+
+</LinearLayout>

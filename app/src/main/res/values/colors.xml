@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="pay">#C0C0C0</color>
+    <color name="black_pay">#505050</color>
+    <color name="blank_pay">#D8D8D8</color>
+    <color name="blank">#FFFFFF</color>
+    <color name="b">#FF161414</color>
+</resources>

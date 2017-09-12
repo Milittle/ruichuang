@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\mizes\\AndroidStudioProjects\\ruichuang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_detail.xml",
+        "source": "C:\\Users\\mizes\\AndroidStudioProjects\\ruichuang\\app\\src\\main\\res\\layout\\activity_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\mizes\\AndroidStudioProjects\\ruichuang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\myactivity.xml",
+        "source": "C:\\Users\\mizes\\AndroidStudioProjects\\ruichuang\\app\\src\\main\\res\\layout\\myactivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\mizes\\AndroidStudioProjects\\ruichuang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sex.xml",
+        "source": "C:\\Users\\mizes\\AndroidStudioProjects\\ruichuang\\app\\src\\main\\res\\layout\\sex.xml"
+    },
+    {
+        "merged": "C:\\Users\\mizes\\AndroidStudioProjects\\ruichuang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\mizes\\AndroidStudioProjects\\ruichuang\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\mizes\\AndroidStudioProjects\\ruichuang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "C:\\Users\\mizes\\AndroidStudioProjects\\ruichuang\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\mizes\\AndroidStudioProjects\\ruichuang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
+        "source": "C:\\Users\\mizes\\AndroidStudioProjects\\ruichuang\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\mizes\\AndroidStudioProjects\\ruichuang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my.xml",
+        "source": "C:\\Users\\mizes\\AndroidStudioProjects\\ruichuang\\app\\src\\main\\res\\layout\\activity_my.xml"
+    },
+    {
+        "merged": "C:\\Users\\mizes\\AndroidStudioProjects\\ruichuang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add.xml",
+        "source": "C:\\Users\\mizes\\AndroidStudioProjects\\ruichuang\\app\\src\\main\\res\\layout\\activity_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\mizes\\AndroidStudioProjects\\ruichuang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mybar.xml",
+        "source": "C:\\Users\\mizes\\AndroidStudioProjects\\ruichuang\\app\\src\\main\\res\\layout\\mybar.xml"
+    },
+    {
+        "merged": "C:\\Users\\mizes\\AndroidStudioProjects\\ruichuang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mydialog.xml",
+        "source": "C:\\Users\\mizes\\AndroidStudioProjects\\ruichuang\\app\\src\\main\\res\\layout\\mydialog.xml"
+    }
+]

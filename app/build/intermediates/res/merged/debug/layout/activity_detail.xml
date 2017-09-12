@@ -1,0 +1,112 @@
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+    
+    <LinearLayout 
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="@color/black_pay">
+        
+        <LinearLayout 
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+             <TextView
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:text="标题:" 
+		        style="@style/mygap"
+		        android:textSize="18sp"/>
+              <TextView
+		        android:id="@+id/d_title"
+		        android:layout_width="match_parent"
+		        android:layout_height="wrap_content"
+		        android:text="标题" 
+		        style="@style/mygap"
+		        android:textSize="18sp"/>
+        </LinearLayout>
+    
+	   
+	    
+        <LinearLayout 
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <TextView 
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:text="地点:"
+		        style="@style/mygap"
+		        android:textSize="18sp"/>
+            <TextView 
+		        android:id="@+id/d_location"
+		        android:layout_width="match_parent"
+		        android:layout_height="wrap_content"
+		        android:text="地点"
+		        style="@style/mygap"
+		        android:textSize="18sp"/>
+        </LinearLayout>
+        
+	    
+	    
+	    <LinearLayout 
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:orientation="horizontal">
+	        <TextView 
+		        android:layout_width="wrap_content"			
+		        android:layout_height="wrap_content"
+		        android:text="时间"
+		        style="@style/mygap"
+		        android:textSize="18sp"/>
+	        <TextView 
+		        android:id="@+id/d_time"
+		        android:layout_width="match_parent"
+		        android:layout_height="wrap_content"
+		        android:text="时间"
+		        style="@style/mygap"
+		        android:textSize="18sp"/>
+	    </LinearLayout>
+        
+	    <TextView
+	        android:id="@+id/d_detail"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:text="活动详情"
+	        style="@style/mygap"/>
+	    
+	        <TextView 
+		        android:id="@+id/d_content"
+		        android:layout_width="match_parent"
+		        android:layout_height="wrap_content"
+		        android:text="活动详情"
+		        android:maxLines="5"
+		        android:scrollbars="vertical"
+		        android:lineSpacingMultiplier="1.7"
+		        style="@style/mygap"
+		        android:textSize="18sp"/>
+		        
+	    
+	    <LinearLayout 
+	        android:layout_width="match_parent"
+	        android:layout_height="match_parent"
+	        android:orientation="horizontal">
+		        <Button
+			        android:id="@+id/d_changestate"
+			        android:layout_width="match_parent"
+			        android:layout_height="50dp"
+			        android:background="@drawable/grey_btn"
+			        android:text="点击修改状态"
+			        android:layout_gravity="bottom"
+			        android:layout_marginBottom="10dp"
+			        android:textSize="18sp"/>
+	    </LinearLayout>
+	
+	    
+    </LinearLayout>
+    
+</LinearLayout>

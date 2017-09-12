@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    <RadioGroup
+        android:id="@+id/Dialog_sex"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <RadioButton 
+            android:id="@+id/Dialog_male"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="男"/>
+        <RadioButton 
+            android:id="@+id/Dialog_fmale"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="女"/>
+    </RadioGroup>
+    
+    <Button 
+        android:id="@+id/Dialog_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="确定"/>
+
+</LinearLayout>

@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\mizes\\AndroidStudioProjects\\ruichuang\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\bule_btn.png",
+        "source": "C:\\Users\\mizes\\AndroidStudioProjects\\ruichuang\\app\\src\\main\\res\\drawable-mdpi\\bule_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\mizes\\AndroidStudioProjects\\ruichuang\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\add.png",
+        "source": "C:\\Users\\mizes\\AndroidStudioProjects\\ruichuang\\app\\src\\main\\res\\drawable-mdpi\\add.png"
+    },
+    {
+        "merged": "C:\\Users\\mizes\\AndroidStudioProjects\\ruichuang\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\exercisedetails_time.png",
+        "source": "C:\\Users\\mizes\\AndroidStudioProjects\\ruichuang\\app\\src\\main\\res\\drawable-mdpi\\exercisedetails_time.png"
+    },
+    {
+        "merged": "C:\\Users\\mizes\\AndroidStudioProjects\\ruichuang\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\default_image.png",
+        "source": "C:\\Users\\mizes\\AndroidStudioProjects\\ruichuang\\app\\src\\main\\res\\drawable-mdpi\\default_image.png"
+    },
+    {
+        "merged": "C:\\Users\\mizes\\AndroidStudioProjects\\ruichuang\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\login_bg.png",
+        "source": "C:\\Users\\mizes\\AndroidStudioProjects\\ruichuang\\app\\src\\main\\res\\drawable-mdpi\\login_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\mizes\\AndroidStudioProjects\\ruichuang\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\personl_arrow.png",
+        "source": "C:\\Users\\mizes\\AndroidStudioProjects\\ruichuang\\app\\src\\main\\res\\drawable-mdpi\\personl_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\mizes\\AndroidStudioProjects\\ruichuang\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\exercisedetails_name1.png",
+        "source": "C:\\Users\\mizes\\AndroidStudioProjects\\ruichuang\\app\\src\\main\\res\\drawable-mdpi\\exercisedetails_name1.png"
+    },
+    {
+        "merged": "C:\\Users\\mizes\\AndroidStudioProjects\\ruichuang\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\exercisedetails_organ.png",
+        "source": "C:\\Users\\mizes\\AndroidStudioProjects\\ruichuang\\app\\src\\main\\res\\drawable-mdpi\\exercisedetails_organ.png"
+    },
+    {
+        "merged": "C:\\Users\\mizes\\AndroidStudioProjects\\ruichuang\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\title_leftbg.png",
+        "source": "C:\\Users\\mizes\\AndroidStudioProjects\\ruichuang\\app\\src\\main\\res\\drawable-mdpi\\title_leftbg.png"
+    },
+    {
+        "merged": "C:\\Users\\mizes\\AndroidStudioProjects\\ruichuang\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\me.png",
+        "source": "C:\\Users\\mizes\\AndroidStudioProjects\\ruichuang\\app\\src\\main\\res\\drawable-mdpi\\me.png"
+    },
+    {
+        "merged": "C:\\Users\\mizes\\AndroidStudioProjects\\ruichuang\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\mizes\\AndroidStudioProjects\\ruichuang\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\mizes\\AndroidStudioProjects\\ruichuang\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\grey_btn.png",
+        "source": "C:\\Users\\mizes\\AndroidStudioProjects\\ruichuang\\app\\src\\main\\res\\drawable-mdpi\\grey_btn.png"
+    }
+]

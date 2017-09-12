@@ -1,0 +1,210 @@
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@color/pay">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp">
+
+        <TextView 
+            android:id="@+id/b_nameText"
+            android:layout_width="0dp"
+            android:layout_weight="0.3"
+            android:layout_height="45dp"
+            android:gravity="center_vertical|left"
+            android:text="账号"
+            android:paddingLeft="10dp"
+            style="@style/textapp"
+            android:textSize="20sp"/>
+
+        <Button
+            android:id="@+id/b_name"
+            android:layout_width="0dp"
+            android:layout_height="45dp"
+            android:layout_weight="0.7"
+            android:gravity="right|center_vertical"
+            android:text="账号"
+            style="@style/textapp"
+            android:textSize="20sp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="3dp">
+
+        <TextView 
+            android:id="@+id/b_truenameText"
+            android:layout_width="0dp"
+            android:layout_weight="0.3"
+            android:layout_height="45dp"
+            style="@style/textapp"
+            android:gravity="center_vertical|left"
+            android:text="@string/truename"
+            android:paddingLeft="10dp"
+            android:textSize="20sp"/>
+
+        <Button
+            android:id="@+id/b_truename"
+            android:layout_width="0dp"
+            android:layout_height="45dp"
+            android:layout_weight="0.7"
+            android:gravity="right|center_vertical"
+            android:text="@string/truename"
+            style="@style/textapp" 
+            android:textSize="20sp"/>
+
+    </LinearLayout>
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="3dp">
+
+        <TextView 
+            android:id="@+id/b_sexText"
+            android:layout_width="0dp"
+            android:layout_weight="0.3"
+            android:layout_height="45dp"
+            style="@style/textapp"
+            android:gravity="center_vertical|left"
+            android:text="@string/sex"
+            android:paddingLeft="10dp"
+            android:textSize="20sp"/>
+
+        <Button
+            android:id="@+id/b_sex"
+            android:layout_width="0dp"
+            android:layout_height="45dp"
+            android:layout_weight="0.7"
+            android:gravity="right|center_vertical"
+            android:text="@string/fmale"
+            style="@style/textapp" 
+            android:textSize="20sp"/>
+
+    </LinearLayout>
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="3dp">
+
+        <TextView 
+            android:id="@+id/b_schoolText"
+            android:layout_width="0dp"
+            android:layout_weight="0.3"
+            android:layout_height="45dp"
+            style="@style/textapp"
+            android:gravity="center_vertical|left"
+            android:text="@string/school"
+            android:paddingLeft="10dp"
+            android:textSize="20sp"/>
+
+        <Button
+            android:id="@+id/b_school"
+            android:layout_width="0dp"
+            android:layout_height="45dp"
+            android:layout_weight="0.7"
+            android:gravity="right|center_vertical"
+            android:text="@string/school"
+            style="@style/textapp" 
+            android:textSize="20sp"/>
+
+    </LinearLayout>
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="3dp">
+
+        <TextView 
+            android:id="@+id/b_professionText"
+            android:layout_width="0dp"
+            android:layout_weight="0.3"
+            android:layout_height="45dp"
+            style="@style/textapp"
+            android:gravity="center_vertical|left"
+            android:text="@string/profession"
+            android:paddingLeft="10dp"
+            android:textSize="20sp"/>
+
+        <Button
+            android:id="@+id/b_profession"
+            android:layout_width="0dp"
+            android:layout_height="45dp"
+            android:layout_weight="0.7"
+            android:gravity="right|center_vertical"
+            android:text="@string/profession"
+            style="@style/textapp" 
+            android:textSize="20sp"/>
+
+    </LinearLayout>
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:background="@color/white">
+
+        <TextView 
+            android:id="@+id/b_myactivityText"
+            android:layout_width="0dp"
+            android:layout_weight="0.3"
+            android:layout_height="45dp"
+            style="@style/textapp"
+            android:gravity="center_vertical|left"
+            android:text="@string/myactivity"
+            android:paddingLeft="10dp"
+            android:textSize="20sp"/>
+        
+        <TableRow
+            android:id="@+id/b_myactivity" 
+            android:layout_width="0dp"
+            android:layout_weight="0.7"
+            android:layout_height="45dp"
+            android:gravity="right">
+            <LinearLayout
+	           android:layout_width="wrap_content"
+	           android:layout_height="wrap_content"
+	           android:gravity="center_vertical"
+	           android:layout_gravity="center"
+	           android:textSize="20sp" >
+        
+	            <Button
+                    android:id="@+id/b_button_myActivity"
+	                android:layout_width="wrap_content"
+	                android:layout_height="wrap_content"
+	                android:background="@color/white"
+	                android:drawableRight="@drawable/personl_arrow"
+	                android:gravity="right|center_vertical"
+	                android:paddingRight="35dp" 
+	                android:textSize="20sp"/>
+
+       		</LinearLayout>
+        </TableRow>
+        
+       
+
+        
+
+    </LinearLayout>
+    
+    
+
+    <Button
+        android:id="@+id/b_exit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+       	android:layout_marginTop="30dp"
+       	android:layout_marginLeft="10dp"
+       	android:layout_marginRight="10dp"
+        android:text="@string/exit"
+        android:background="#FF0000"
+        android:textSize="20sp" />
+    
+</LinearLayout>
